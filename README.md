@@ -1,3 +1,4 @@
 # Hangman Game
 
-Hangman game created using Python. Words used in game are all possible words in the English language.
+This is a hangman game created using Python.
+I used urllib.request to acquire all possible words in the English language and randomly picks one to be used in the game.
